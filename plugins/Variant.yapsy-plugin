@@ -1,0 +1,9 @@
+[Core]
+Name = Variant
+Module = Variant
+
+[Documentation]
+Author = Open Targets Core Team
+Version = 0.1
+Website = http://github.com/opentargets
+Description = Retrieve Variant info from a private GS bucket (permissions required)

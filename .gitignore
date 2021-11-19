@@ -1,6 +1,8 @@
 # Google Application Credential
 # do not upload/share this file
 open-targets-gac.json
+open-targets-genetics-dev-svn.json
+*-svn.json
 opentargets-urlzsource
 
 # Byte-compiled / optimized / DLL files

@@ -1,0 +1,11 @@
+---
+lookuptable:
+  gs_downloads_latest:
+   - bucket: genetics-portal-dev-staging/lut/biofeature_labels/
+     output_filename: biofeature_labels-{suffix}.json
+     path: lut/
+variant:
+  gs_downloads_latest:
+   - bucket: genetics-portal-dev-staging/lut/biofeature_labels/
+     output_filename: biofeature_labels-{suffix}.json
+     path: lut/
